@@ -1,3 +1,5 @@
+TEST
+
 # Replication of Classic Psychophysical Research on Size Discrimination
 
 ## Study Overview
