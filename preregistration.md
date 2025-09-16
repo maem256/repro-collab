@@ -1,3 +1,5 @@
+TEST
+
 # Replication of Classic Psychophysical Research on Size Discrimination
 
 ## Study Overview
@@ -35,10 +37,11 @@ Based on the theoretical framework and prior observations, we predict:
 3. **Accuracy hypothesis**: Error rates will be highest for stimuli close to equal in size and will decrease as the size difference increases.
 
 ## Methods
+Learning GitHub in a Workshop
 
 ### Participants
 
-Five participants with normal or corrected-to-normal vision will complete the study.
+Emma, Michael
 
 ### Materials
 
